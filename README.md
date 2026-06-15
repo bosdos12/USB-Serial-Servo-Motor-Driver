@@ -1,10 +1,5 @@
-# atmega328_uart_servodriver
+# USB Serial Servo Motor Driver
 
-## Description
+Custom PCB for a USB Serial Based servo motors, based on Arduino Nano.
 
-This is a [LibrePCB](https://librepcb.org) project!
-Just edit this file to add a description about it.
-
-## License
-
-No license set.
+Takes an external regulated 5V DC source, and, allows for up to 6 servo motors to be controlled from a computer with UART Serial Commnds.

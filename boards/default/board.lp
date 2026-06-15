@@ -141,11 +141,6 @@
   (lib_footprint 0ff03d40-c63a-4add-bd3c-5de12051d696)
   (lib_3d_model 37a28abd-4fb8-4ba6-80cb-f6e9a26a9798)
   (position 51.7525 5.87375) (rotation 0.0) (flip false) (lock false) (glue true)
-  (stroke_text a89e5595-0c86-4b3d-ac4f-8dc4edc7d046 (layer top_names)
-   (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
-   (align center bottom) (position 51.7525 7.47375) (rotation 0.0)
-   (auto_rotate true) (mirror false) (lock false) (value "{{NAME}}")
-  )
  )
  (device b001059c-9753-4fa4-8924-3394b78f70b3
   (lib_device 61638d39-3132-48ac-9b13-5bc55f6fde54)
