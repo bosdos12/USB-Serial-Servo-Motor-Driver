@@ -1,0 +1,22 @@
+M48
+; #@! TF.GenerationSoftware,LibrePCB,LibrePCB,2.1.1
+; #@! TF.CreationDate,2026-06-15T03:22:33
+; #@! TF.ProjectId,atmega328_uart_servodriver,c2782951-d4af-45cf-b0d1-a6685f95ab20,v1
+; #@! TF.Part,Single
+; #@! TF.SameCoordinates
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+METRIC,TZ
+; #@! TA.AperFunction,MechanicalDrill
+T1C1.8
+%
+G90
+G05
+M71
+T1
+X17.653Y30.06725
+X17.653Y14.82725
+X58.293Y30.06725
+X58.293Y14.82725
+T0
+M30
